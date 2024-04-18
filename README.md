@@ -5,5 +5,3 @@ Proyek Tugas Akhir ini bertujuan untuk mengembangkan pembelajaran mesin dalam me
 ## Deskripsi Proyek
 
 Proyek ini menggunakan teknik pembelajaran mesin untuk mengklasifikasikan gambar-gambar yang menunjukkan kertas, batu, atau gunting. Klasifikasi gambar dilakukan menggunakan TensorFlow, sebuah kerangka kerja pembelajaran mesin yang populer.
-
-
